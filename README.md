@@ -14,23 +14,23 @@ Este repositório contém implementações em C de vários algoritmos de ordena�
 
 O Bubble Sort é um algoritmo de ordenação simples que compara pares de elementos adjacentes e os troca se estiverem fora de ordem. O processo continua até que nenhum elemento seja trocado. É eficaz para pequenos conjuntos de dados, mas não é eficiente para grandes conjuntos de dados.
 
-## Heap Sort
+## [Heap Sort](HeapSort.c)
 
 O Heap Sort é um algoritmo de ordenação baseado em árvore binária que transforma o conjunto de dados em uma estrutura de heap (árvore binária especial) e, em seguida, extrai repetidamente o elemento máximo (ou mínimo) da heap.
 
-## Insertion Sort
+## [Insertion Sort](InsertionSort.c)
 
 O Insertion Sort é um algoritmo de ordenação que constrói uma lista ordenada um item de cada vez, movendo elementos não ordenados para a posição correta.
 
-## Merge Sort
+## [Merge Sort](MergeSort.c)
 
 O Merge Sort é um algoritmo de ordenação eficiente que divide o conjunto de dados em duas metades, ordena cada metade e, em seguida, combina as duas metades ordenadas em uma única lista ordenada.
 
-## Quick Sort
+## [Quick Sort](QuickSort.c)
 
 O Quick Sort é um algoritmo de ordenação baseado na técnica de "dividir e conquistar". Ele escolhe um elemento pivot e divide o conjunto de dados em duas partições, uma com elementos menores que o pivot e outra com elementos maiores. O processo é repetido recursivamente nas partições.
 
-## Radix Sort
+## [Radix Sort](RadixSort.c)
 
 O Radix Sort é um algoritmo de ordenação que ordena os elementos com base em seus dígitos individuais. Começa ordenando os dígitos menos significativos e progride para os dígitos mais significativos.
 
