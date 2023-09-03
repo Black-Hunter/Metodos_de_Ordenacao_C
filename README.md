@@ -40,3 +40,13 @@ O Selection Sort é um algoritmo de ordenação simples que encontra repetidamen
 
 Cada algoritmo tem sua própria implementação em um arquivo separado neste repositório. Sinta-se à vontade para explorar e usar essas implementações em seus próprios projetos.
 
+## Requisitos
+
+- Compilador C (por exemplo, GCC) instalado no seu sistema.
+
+## Como Compilar e Executar
+
+1. Abra o terminal.
+2. Navegue até o diretório onde o arquivo de código-fonte do programa está localizado.
+3. Compile o programa com o comando: `gcc bubbleSort.c -o bubbleSort`
+4. Execute o programa com o comando: `./bubbleSort`
