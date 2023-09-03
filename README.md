@@ -34,7 +34,7 @@ O Quick Sort é um algoritmo de ordenação baseado na técnica de "dividir e co
 
 O Radix Sort é um algoritmo de ordenação que ordena os elementos com base em seus dígitos individuais. Começa ordenando os dígitos menos significativos e progride para os dígitos mais significativos.
 
-## Selection Sort(SelectionSort.c)
+## [Selection Sort](SelectionSort.c)
 
 O Selection Sort é um algoritmo de ordenação simples que encontra repetidamente o elemento mínimo (ou máximo) a ser colocado na posição apropriada. Ele possui uma complexidade de tempo pior do que outros algoritmos, como o Merge Sort e o Quick Sort.
 
