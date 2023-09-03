@@ -40,4 +40,3 @@ O Selection Sort é um algoritmo de ordenação simples que encontra repetidamen
 
 Cada algoritmo tem sua própria implementação em um arquivo separado neste repositório. Sinta-se à vontade para explorar e usar essas implementações em seus próprios projetos.
 
-**Nota:** Certifique-se de compilar e executar os programas em um ambiente de desenvolvimento C adequado.
