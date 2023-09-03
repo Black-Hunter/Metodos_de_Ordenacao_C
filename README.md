@@ -10,7 +10,7 @@ Este repositório contém implementações em C de vários algoritmos de ordena�
 6. Radix Sort (RadixSort.c)
 7. Selection Sort (SelectionSort.c)
 
-## Bubble Sort
+## [Bubble Sort](BubbleSort.c)
 
 O Bubble Sort é um algoritmo de ordenação simples que compara pares de elementos adjacentes e os troca se estiverem fora de ordem. O processo continua até que nenhum elemento seja trocado. É eficaz para pequenos conjuntos de dados, mas não é eficiente para grandes conjuntos de dados.
 
