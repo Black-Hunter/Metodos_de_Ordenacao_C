@@ -19,17 +19,17 @@ void insertionSort(int arr[], int n) {
 
 int main() {
     int arr[] = {64, 34, 25, 12, 22, 11, 90};
-    int n = sizeof(arr) / sizeof(arr[0]);
+    int TAM = sizeof(arr) / sizeof(arr[0]);
 
     printf("Array desordenado: ");
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i <TAM; i++) {
         printf("%d ", arr[i]);
     }
 
-    insertionSort(arr, n);
+    insertionSort(arr, TAM);
 
     printf("\nArray ordenado: ");
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < TAM; i++) {
         printf("%d ", arr[i]);
     }
 
